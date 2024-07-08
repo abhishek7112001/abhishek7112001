@@ -27,7 +27,7 @@
 <h5  align="center">
 <a  href="https://linkedin.com/in/abhishekkumar0711"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>
 &emsp;
-<a  href="https://www.naukri.com/code360/profile/Abhishek_0711"  title="Code360 Profile"><img  width="22"  src="./images/cn.png"> GFG</a>
+<a  href="https://www.naukri.com/code360/profile/Abhishek_0711"  title="Code360 Profile"><img  width="22"  src="./images/cn.png"> Code360</a>
 &emsp;
 <a  href="https://auth.geeksforgeeks.org/user/abhisheklenovo2001"  title="GFG Profile"><img  width="22"  src="./images/geeks-for-geeks.png"> GFG</a>
 &emsp;
